@@ -1,0 +1,18 @@
+h1{color: #FFC470;}
+h1{font-size: 45px;}
+h2{color: #c84e3e}
+h3{color: #8B322C}
+body{font-family: 'Courier New', Courier, monospace;}
+
+.title{
+    text-align: center;
+    margin-top: 25px;
+}
+
+.bottom{ 
+    text-align: center;
+}
+
+.beaut{
+    margin-top: auto;
+}
